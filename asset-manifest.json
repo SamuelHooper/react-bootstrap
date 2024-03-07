@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-bootstrap/static/css/main.2318af85.css",
-    "main.js": "/react-bootstrap/static/js/main.038f617d.js",
+    "main.js": "/react-bootstrap/static/js/main.fb68a1ec.js",
     "static/js/592.ab0553fc.chunk.js": "/react-bootstrap/static/js/592.ab0553fc.chunk.js",
     "index.html": "/react-bootstrap/index.html",
     "main.2318af85.css.map": "/react-bootstrap/static/css/main.2318af85.css.map",
-    "main.038f617d.js.map": "/react-bootstrap/static/js/main.038f617d.js.map",
+    "main.fb68a1ec.js.map": "/react-bootstrap/static/js/main.fb68a1ec.js.map",
     "592.ab0553fc.chunk.js.map": "/react-bootstrap/static/js/592.ab0553fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2318af85.css",
-    "static/js/main.038f617d.js"
+    "static/js/main.fb68a1ec.js"
   ]
 }
